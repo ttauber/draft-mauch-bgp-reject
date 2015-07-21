@@ -114,7 +114,7 @@
 
 <t>
     This proposal intends to solve this situation with the requiring the
-    explicity configuration of BGP policy for any non-iBGP speaking session
+    explicit configuration of BGP policy for any non-iBGP speaking session
     such as customers, peers or confederation boundaries. When this solution is
     implemented, devices will no longer pass routes without explicit
     policy.
